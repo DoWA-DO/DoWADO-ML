@@ -2,5 +2,4 @@ fastapi
 pandas
 transformers
 torch
-scikit-learn
 kiwipiepy
